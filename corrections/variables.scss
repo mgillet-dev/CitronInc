@@ -92,9 +92,11 @@ blockquote{
         line-height: 1em;
     }
     figcaption{
-        font: {
-            family: $head-font;
-            size: 1.2rem;
+        font:{        
+            font-family: "Grand Hotel", serif;
+            font-size : 1.2rem;
+        }
+        margin-top: 1rem;
         }
         margin-top: 1rem;
         &:before{
